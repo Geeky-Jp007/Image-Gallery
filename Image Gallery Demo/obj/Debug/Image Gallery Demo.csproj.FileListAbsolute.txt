@@ -1,0 +1,24 @@
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe.config
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.pdb
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.ImageGallery.resources
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.Properties.Resources.resources
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.GenerateResource.cache
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe.licenses
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CopyComplete
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.pdb
+C:\Users\singh\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csprojAssemblyReference.cache
